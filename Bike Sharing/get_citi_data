@@ -1,0 +1,53 @@
+#!/bin/bash
+
+# read citibike data from inception to 12/2016
+
+mkdir -p data
+
+# 2013 
+for m in $(seq -w 7 12)
+do
+  curl -o 'data/cb_2013'$m'.zip' https://s3.amazonaws.com/tripdata/2013$m-citibike-tripdata.zip
+  unzip -o data/cb_2013$m.zip -d data/
+  mv 'data/2013-'$m' - Citi Bike trip data.csv' data/cb_2013$m.csv
+  rm 'data/cb_2013'$m'.zip'
+done
+
+# 2014 Jan to Aug
+for m in $(seq 1 8)
+do
+  curl -o 'data/cb_20140'$m'.zip' https://s3.amazonaws.com/tripdata/20140$m-citibike-tripdata.zip
+  unzip -o data/cb_20140$m.zip -d data/
+  mv 'data/2014-0'$m' - Citi Bike trip data.csv' data/cb_20140$m.csv
+  rm 'data/cb_20140'$m'.zip'
+done
+
+
+# 2014
+for m in $(seq -w 9 12)
+do
+  curl -o 'data/cb_2014'$m'.zip' https://s3.amazonaws.com/tripdata/2014$m-citibike-tripdata.zip
+  unzip -o data/cb_2014$m.zip -d data/
+  mv 'data/2014'$m'-citibike-tripdata.csv' data/cb_2014$m.csv
+  rm 'data/cb_2014'$m'.zip'
+done
+
+# 2015 
+for m in $(seq -w 1 12)
+do
+  curl -o 'data/cb_2015'$m'.zip' https://s3.amazonaws.com/tripdata/2015$m-citibike-tripdata.zip
+  unzip -o data/cb_2015$m.zip -d data/
+  mv 'data/2015'$m'-citibike-tripdata.csv' data/cb_2015$m.csv
+  rm 'data/cb_2015'$m'.zip'
+done
+
+# 2016
+for m in $(seq -w 1 12)
+do
+  curl -o 'data/cb_2016'$m'.zip' https://s3.amazonaws.com/tripdata/2016$m-citibike-tripdata.zip
+  unzip -o data/cb_2016$m.zip -d data/
+  mv 'data/2016'$m'-citibike-tripdata.csv' data/cb_2016$m.csv
+  rm 'data/cb_2016'$m'.zip'
+done
+
+2013-07 - Citi Bike trip data.csv
