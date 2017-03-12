@@ -1,0 +1,9 @@
+dropoff_datetime,zone,trip_distance,borough,count
+2016-05-01,Alphabet City,2.18,1,Manhattan
+2016-05-01,Corona,1.04,1,Queens
+2016-05-01,East New York/Pennsylvania Avenue,4.06,1,Brooklyn
+2016-05-01,East Williamsburg,1.97,1,Brooklyn
+2016-05-01,Greenpoint,3.795,2,Brooklyn
+2016-05-01,Ridgewood,5.49,2,Queens
+2016-05-01,Stapleton,16.49,1,Staten Island
+2016-05-01,Williamsburg (South Side),0.93,1,Brooklyn

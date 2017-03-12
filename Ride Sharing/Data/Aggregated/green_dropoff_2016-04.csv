@@ -1,0 +1,11 @@
+dropoff_datetime,zone,trip_distance,borough,count
+2016-04-01,Bay Ridge,4.74,1,Brooklyn
+2016-04-01,Boerum Hill,0.75,1,Brooklyn
+2016-04-01,Corona,2.18,1,Queens
+2016-04-01,Downtown Brooklyn/MetroTech,0.94,1,Brooklyn
+2016-04-01,East Flatbush/Farragut,3.26,1,Brooklyn
+2016-04-01,Forest Hills,0.68,1,Queens
+2016-04-01,Greenpoint,1.53,1,Brooklyn
+2016-04-01,Manhattan Valley,1.16,1,Manhattan
+2016-04-01,South Williamsburg,0.54,1,Brooklyn
+2016-04-01,Steinway,5.59,1,Queens

@@ -1,0 +1,11 @@
+pickup_datetime,BoroName,trip_distance,borough,count
+2016-06-09,East Chelsea,1.26,Manhattan,1
+2016-06-09,East Village,3.1,Manhattan,1
+2016-06-09,Gramercy,5.22,Manhattan,1
+2016-06-09,Kips Bay,6.02,Manhattan,1
+2016-06-09,Lincoln Square East,7.39,Manhattan,1
+2016-06-09,Lincoln Square West,1.2,Manhattan,1
+2016-06-09,Midtown South,1.4,Manhattan,1
+2016-06-09,Murray Hill,1.9,Manhattan,1
+2016-06-09,Times Sq/Theatre District,0.79,Manhattan,1
+2016-06-09,Union Sq,2.17,Manhattan,1

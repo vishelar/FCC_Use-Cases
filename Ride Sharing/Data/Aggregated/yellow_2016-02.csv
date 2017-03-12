@@ -1,0 +1,10 @@
+pickup_datetime,BoroName,trip_distance,borough,count
+2016-02-01,Central Park,1.1,Manhattan,1
+2016-02-01,Clinton East,1.99,Manhattan,1
+2016-02-01,Greenwich Village South,5.6,Manhattan,1
+2016-02-01,Midtown North,3.23,Manhattan,2
+2016-02-01,Murray Hill,1.5,Manhattan,1
+2016-02-01,Times Sq/Theatre District,1.45,Manhattan,1
+2016-02-01,TriBeCa/Civic Center,4.69,Manhattan,1
+2016-02-25,Midtown South,5.52,Manhattan,1
+2016-02-25,Roosevelt Island,0.7,Manhattan,1

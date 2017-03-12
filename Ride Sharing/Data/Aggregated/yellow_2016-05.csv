@@ -1,0 +1,10 @@
+pickup_datetime,BoroName,trip_distance,borough,count
+2016-05-01,Battery Park City,3.52,Manhattan,1
+2016-05-01,Boerum Hill,4.21,Brooklyn,1
+2016-05-01,Clinton East,3.6,Manhattan,1
+2016-05-01,Flatiron,1.635,Manhattan,2
+2016-05-01,Meatpacking/West Village West,0.56,Manhattan,1
+2016-05-01,Midtown Center,0.63,Manhattan,1
+2016-05-01,Midtown South,1.48,Manhattan,1
+2016-05-01,Union Sq,1.09,Manhattan,1
+2016-05-01,Upper West Side South,6.68,Manhattan,1

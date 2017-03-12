@@ -1,0 +1,9 @@
+dropoff_datetime,zone,trip_distance,borough,count
+2016-03-01,Astoria,0.535,2,Queens
+2016-03-01,Central Harlem North,0.81,2,Manhattan
+2016-03-01,Corona,0.71,1,Queens
+2016-03-01,Greenpoint,0.85,1,Brooklyn
+2016-03-01,Maspeth,0.9,1,Queens
+2016-03-01,Prospect Heights,0.44,1,Brooklyn
+2016-03-01,Rego Park,1.0,1,Queens
+2016-03-01,Steinway,0.88,1,Queens

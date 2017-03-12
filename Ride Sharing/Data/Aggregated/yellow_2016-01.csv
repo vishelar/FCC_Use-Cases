@@ -1,0 +1,9 @@
+pickup_datetime,BoroName,trip_distance,borough,count
+2016-01-01,Central Park,1.76,Manhattan,1
+2016-01-01,East Harlem South,6.0,Manhattan,1
+2016-01-01,East Village,4.9,Manhattan,1
+2016-01-01,Gowanus,10.54,Brooklyn,1
+2016-01-01,Lower East Side,6.1,Manhattan,2
+2016-01-01,Murray Hill,3.36,Manhattan,2
+2016-01-01,SoHo,3.21,Manhattan,1
+2016-01-01,Union Sq,1.1,Manhattan,1

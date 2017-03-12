@@ -1,0 +1,11 @@
+dropoff_datetime,zone,trip_distance,borough,count
+2016-06-01,Astoria,1.04,1,Queens
+2016-06-01,Bushwick South,2.7,1,Brooklyn
+2016-06-01,Greenwich Village South,5.24,1,Manhattan
+2016-06-01,Hamilton Heights,3.14,1,Manhattan
+2016-06-01,Mott Haven/Port Morris,2.27,1,Bronx
+2016-06-01,Penn Station/Madison Sq West,7.5,1,Manhattan
+2016-06-01,Prospect-Lefferts Gardens,4.9,1,Brooklyn
+2016-06-01,Two Bridges/Seward Park,2.76,1,Manhattan
+2016-06-01,Woodside,3.63,1,Queens
+2016-06-02,East Village,6.82,1,Manhattan

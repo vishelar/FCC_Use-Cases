@@ -1,0 +1,11 @@
+dropoff_datetime,zone,trip_distance,borough,count
+2016-02-01,Bushwick South,2.58,1,Brooklyn
+2016-02-01,East Flushing,1.46,1,Queens
+2016-02-01,East Harlem North,5.96,1,Manhattan
+2016-02-01,East Williamsburg,1.44,1,Brooklyn
+2016-02-01,Elmhurst/Maspeth,3.35,1,Queens
+2016-02-01,Kew Gardens,2.11,1,Queens
+2016-02-01,Maspeth,0.98,1,Queens
+2016-02-01,Midtown South,6.0,1,Manhattan
+2016-02-01,Upper West Side South,2.86,1,Manhattan
+2016-02-01,Williamsburg (North Side),4.7,1,Brooklyn

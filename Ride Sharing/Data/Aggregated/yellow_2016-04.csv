@@ -1,0 +1,8 @@
+pickup_datetime,BoroName,trip_distance,borough,count
+2016-04-01,Clinton East,1.54,Manhattan,1
+2016-04-01,JFK Airport,4.4,Queens,1
+2016-04-01,LaGuardia Airport,10.45,Queens,1
+2016-04-01,Midtown Center,0.73,Manhattan,2
+2016-04-01,Midtown East,3.5,Manhattan,1
+2016-04-01,Midtown South,0.705,Manhattan,2
+2016-04-01,Times Sq/Theatre District,2.2,Manhattan,1
