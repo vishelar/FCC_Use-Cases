@@ -1,0 +1,81 @@
+pickup_datetime,zone,trip_distance,borough,dropoff_datetime
+2015-02-01,Clinton East,1.76,Manhattan,1
+2015-02-01,East Village,4.05,Manhattan,1
+2015-02-01,JFK Airport,15.84,Queens,1
+2015-02-01,Meatpacking/West Village West,4.08,Manhattan,1
+2015-02-01,Penn Station/Madison Sq West,0.91,Manhattan,1
+2015-02-01,SoHo,2.02,Manhattan,1
+2015-02-01,TriBeCa/Civic Center,1.45,Manhattan,1
+2015-02-01,Upper East Side South,2.53,Manhattan,1
+2015-02-08,Clinton East,2.06,Manhattan,1
+2015-02-08,Lincoln Square West,2.59,Manhattan,1
+2015-02-08,Sutton Place/Turtle Bay North,1.28,Manhattan,1
+2015-02-08,Upper West Side South,3.47,Manhattan,1
+2015-02-08,Williamsburg (North Side),0.56,Brooklyn,1
+2015-02-08,Yorkville East,1.36,Manhattan,1
+2015-02-09,Boerum Hill,1.94,Brooklyn,1
+2015-02-09,Crown Heights North,0.5,Brooklyn,1
+2015-02-09,East Chelsea,0.16,Manhattan,2
+2015-02-09,East Elmhurst,2.94,Queens,1
+2015-02-09,East Village,2.64333333333,Manhattan,3
+2015-02-09,Greenwich Village South,4.43666666667,Manhattan,3
+2015-02-09,Jackson Heights,3.47,Queens,1
+2015-02-09,Little Italy/NoLiTa,1.5,Manhattan,1
+2015-02-09,Midtown Center,12.835,Manhattan,2
+2015-02-09,Midtown North,4.44,Manhattan,1
+2015-02-09,SoHo,1.8,Manhattan,1
+2015-02-09,West Chelsea/Hudson Yards,1.11,Manhattan,1
+2015-02-09,West Village,4.01,Manhattan,2
+2015-02-09,Woodside,5.26,Queens,2
+2015-02-16,Astoria,3.5,Queens,1
+2015-02-16,Clinton West,1.7,Manhattan,1
+2015-02-16,East Chelsea,7.6,Manhattan,1
+2015-02-16,East Village,0.8,Manhattan,1
+2015-02-16,Financial District North,2.7,Manhattan,1
+2015-02-16,Garment District,2.7,Manhattan,1
+2015-02-16,Greenwich Village South,3.8,Manhattan,1
+2015-02-16,JFK Airport,15.7,Queens,1
+2015-02-16,Lenox Hill West,1.7,Manhattan,1
+2015-02-16,Midtown Center,2.9,Manhattan,1
+2015-02-16,Midtown East,2.13333333333,Manhattan,3
+2015-02-16,Midtown North,1.3,Manhattan,1
+2015-02-16,Times Sq/Theatre District,0.7,Manhattan,1
+2015-02-16,TriBeCa/Civic Center,0.8,Manhattan,1
+2015-02-16,Union Sq,1.0,Manhattan,4
+2015-02-16,Upper East Side South,1.1,Manhattan,1
+2015-02-16,Upper West Side South,0.9,Manhattan,1
+2015-02-21,Clinton East,0.48,Manhattan,1
+2015-02-21,East Village,1.2,Manhattan,1
+2015-02-21,Flatiron,3.77,Manhattan,1
+2015-02-21,Garment District,1.12,Manhattan,1
+2015-02-21,Gramercy,2.32,Manhattan,1
+2015-02-21,Hamilton Heights,2.65,Manhattan,1
+2015-02-21,Kips Bay,1.22,Manhattan,1
+2015-02-21,Lenox Hill East,3.75,Manhattan,1
+2015-02-21,Sutton Place/Turtle Bay North,6.1,Manhattan,1
+2015-02-21,Upper West Side South,4.29,Manhattan,1
+2015-02-22,Chinatown,3.8,Manhattan,1
+2015-02-22,Clinton East,0.7,Manhattan,1
+2015-02-22,East Village,5.55,Manhattan,2
+2015-02-22,JFK Airport,11.3,Queens,1
+2015-02-22,LaGuardia Airport,12.1,Queens,1
+2015-02-22,Lincoln Square East,0.95,Manhattan,2
+2015-02-22,Long Island City/Queens Plaza,1.9,Queens,1
+2015-02-22,Midtown Center,3.6,Manhattan,1
+2015-02-22,Midtown East,3.4,Manhattan,1
+2015-02-22,Murray Hill,5.65,Manhattan,2
+2015-02-22,Penn Station/Madison Sq West,1.1,Manhattan,1
+2015-02-22,TriBeCa/Civic Center,0.7,Manhattan,2
+2015-02-22,UN/Turtle Bay South,1.1,Manhattan,1
+2015-02-22,Upper East Side South,4.3,Manhattan,1
+2015-02-22,Upper West Side South,2.45,Manhattan,2
+2015-02-28,Battery Park City,8.82,Manhattan,1
+2015-02-28,East Harlem South,4.95,Manhattan,1
+2015-02-28,East Village,1.64,Manhattan,2
+2015-02-28,Gramercy,1.21,Manhattan,1
+2015-02-28,Lenox Hill East,2.29,Manhattan,1
+2015-02-28,Meatpacking/West Village West,1.77,Manhattan,1
+2015-02-28,Midtown East,1.36,Manhattan,1
+2015-02-28,Times Sq/Theatre District,1.24,Manhattan,1
+2015-02-28,Union Sq,2.58,Manhattan,1
+2015-02-28,West Village,2.07,Manhattan,1
