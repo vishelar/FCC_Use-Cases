@@ -1,0 +1,55 @@
+#!/bin/bash
+
+# read yellow taxis
+
+# read 2013 (by month)
+
+#for m in $(seq -w 1 9)
+#do
+#  curl -o 'yellow_data/yellow_20130'$m'.csv' https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2013-0$m.csv
+#done
+
+#for m in $(seq -w 10 12)
+#do
+#  curl -o 'yellow_data/yellow_2013'$m'.csv' https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2013-$m.csv
+#done
+
+# read 2014 (by month)
+
+for m in $(seq -w 1 9)
+do
+  curl -o 'yellow_data/yellow_20140'$m'.csv' https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2014-0$m.csv
+done
+
+for m in $(seq -w 10 12)
+do
+  curl -o 'yellow_data/yellow_2014'$m'.csv' https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2014-$m.csv
+done
+
+# read 2015 (by month)
+
+for m in $(seq -w 1 9)
+do
+  curl -o 'yellow_data/yellow_20150'$m'.csv' https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2015-0$m.csv
+done
+
+for m in $(seq -w 10 12)
+do
+  curl -o 'yellow_data/yellow_2015'$m'.csv' https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2015-$m.csv
+done
+
+
+# read 2016 (by month)
+
+for m in $(seq -w 1 9)
+do
+  curl -o 'yellow_data/yellow_20160'$m'.csv' https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2016-0$m.csv
+done
+
+for m in $(seq -w 10 12)
+do
+  curl -o 'yellow_data/yellow_2016'$m'.csv' https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2016-$m.csv
+done
+
+
+
